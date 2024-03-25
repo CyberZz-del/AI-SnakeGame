@@ -1,0 +1,17 @@
+# Define some constants
+WIDTH = 600
+HEIGHT = 600
+GRID_SIZE = 60
+GRID_WIDTH = WIDTH // GRID_SIZE
+GRID_HEIGHT = HEIGHT // GRID_SIZE
+SNAKE_SPEED = 2500
+SPEED_UNIT = 100
+
+# Define some colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255,255,0)
+PURPLE = (102,0,204)
